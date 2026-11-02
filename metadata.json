@@ -1,0 +1,6 @@
+{
+  "name": "ImperionX Digital Showroom",
+  "description": "Premier digital agency client showroom and demo discovery platform featuring live web and mobile solutions, AI systems, turnkey previews, and automated curation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
